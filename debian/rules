@@ -1,0 +1,10 @@
+#!/usr/bin/make -f
+
+%:
+	dh  $@
+
+override_dh_auto_build:
+	make blahtexml-linux
+
+override_dh_install:
+	install -D -m755 blahtexml $(CURDIR)/debian/blahtexml/usr/bin/blahtexml

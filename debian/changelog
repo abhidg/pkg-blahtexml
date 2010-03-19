@@ -1,0 +1,16 @@
+blahtexml (0.8-1) unstable; urgency=low
+
+  * New upstream release, closes: #574074
+    - Blahtexml can now produce annotations with TeX and/or PNG
+      (options --annotate-TeX and --annotate-PNG)
+  * Bumped Standards-Version to 3.8.4 (no changes needed)
+  * Documentation updated, --xmlin option added. (Closes: #566830)
+  * Examples are now installed.
+
+ -- Abhishek Dasgupta <abhidg@gmail.com>  Fri, 19 Mar 2010 20:44:08 +0530
+
+blahtexml (0.7-1) unstable; urgency=low
+
+  * Initial release (Closes: #547531)
+
+ -- Abhishek Dasgupta <abhidg@gmail.com>  Tue, 03 Nov 2009 22:36:11 +0530
