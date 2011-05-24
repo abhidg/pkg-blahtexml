@@ -4,6 +4,7 @@ blahtexml (0.9-1) UNRELEASED; urgency=low
     - Better support for inline vs block equations.
     - Equation can be specified as inline or block, via --xmlin.
   * Bump Standards-Version to 3.9.2 (no changes needed) 
+  * Use 3.0 (quilt) source format. 
 
  -- Abhishek Dasgupta <abhidg@gmail.com>  Mon, 23 May 2011 21:34:20 +0530
 
