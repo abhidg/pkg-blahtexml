@@ -1,4 +1,4 @@
-blahtexml (0.9-1) UNRELEASED; urgency=low
+blahtexml (0.9-1) unstable; urgency=low
 
   * New upstream version.
     - Better support for inline vs block equations.
@@ -7,7 +7,7 @@ blahtexml (0.9-1) UNRELEASED; urgency=low
   * Use 3.0 (quilt) source format.
   * Added Vcs-* fields in debian/control.
 
- -- Abhishek Dasgupta <abhidg@gmail.com>  Mon, 23 May 2011 21:34:20 +0530
+ -- Abhishek Dasgupta <abhidg@gmail.com>  Sun, 04 Sep 2011 21:22:56 +0530
 
 blahtexml (0.8-1) unstable; urgency=low
 
