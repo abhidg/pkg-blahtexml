@@ -5,8 +5,8 @@ Maintainer: Abhishek Dasgupta <abhidg@gmail.com>
 Build-Depends: debhelper (>= 7.0.50), libxerces-c-dev
 Standards-Version: 3.9.2
 Homepage: http://gva.noekeon.org/blahtexml/
-Vcs-Git: git://github.com/abhidg/pkg-blahtexml.git
-Vcs-Browser: http://github.com/abhidg/pkg-blahtexml
+Vcs-Git: https://github.com/abhidg/pkg-blahtexml.git
+Vcs-Browser: https://github.com/abhidg/pkg-blahtexml
 
 Package: blahtexml
 Architecture: any
